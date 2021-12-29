@@ -1,7 +1,7 @@
 {
     "name": "parker/composer-testing",
     "description": "playing with composer",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {

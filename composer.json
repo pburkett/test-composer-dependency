@@ -1,0 +1,18 @@
+{
+    "name": "parker/composer-testing",
+    "description": "playing with composer",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Parker\\ComposerTesting\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pburkett",
+            "email": "pburkett636@gmail.com"
+        }
+    ],
+    "require": {}
+}

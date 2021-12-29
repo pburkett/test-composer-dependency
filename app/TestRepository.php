@@ -6,6 +6,6 @@ class TestRepository
 {
     public function helloWorld()
     {
-        return 'hello world';
+        return 'hello world my guys my dudes';
     }
 }

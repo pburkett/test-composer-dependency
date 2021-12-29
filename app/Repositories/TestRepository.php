@@ -1,6 +1,6 @@
 <?php
 
-namespace App\WPS\Repositories;
+namespace parker\ComposerTesting;
 
 class TestRepository
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace parker\ComposerTesting;
+namespace Parker\ComposerTesting;
 
 class TestRepository
 {
